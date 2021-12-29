@@ -6,3 +6,8 @@
 
 # if.py
     Practise on if statements.
+
+# List.py
+Practise with list and 
+list functions
+slicing, methods
